@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "710722345658",
+    "project_id": "project-2338395453576237673",
+    "storage_bucket": "project-2338395453576237673.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710722345658:android:407aabed6c5ad904324083",
+        "android_client_info": {
+          "package_name": "com.game2048"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu61HL6K3F8wZZ51i76I0J_zs5XwrlCmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
